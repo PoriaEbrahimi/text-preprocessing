@@ -1,6 +1,4 @@
-# Name = Poria Ebrahimi
-# NetID = pxe160330
-# Date = 9/5/2019
+# Run using command line: "python main.py hm1_dir"
 
 import os
 import sys
