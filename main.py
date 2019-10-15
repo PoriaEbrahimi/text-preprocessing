@@ -1,4 +1,4 @@
-# Run using command line: "python main.py hm1_dir"
+# Run program in command line: "python main.py hm1_dir"
 
 import os
 import sys
