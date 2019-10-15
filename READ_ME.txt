@@ -1,0 +1,1 @@
+to run the program simply type "python main.py hw1_dir" into the command prompt.
